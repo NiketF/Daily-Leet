@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiketF/Daily-Leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/NiketF/Daily-Leet/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
