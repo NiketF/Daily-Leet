@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiketF/Daily-Leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -60,13 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
