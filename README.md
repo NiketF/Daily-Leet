@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
+| [0057-insert-interval](https://github.com/NiketF/Daily-Leet/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
