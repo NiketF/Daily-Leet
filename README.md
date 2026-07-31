@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/NiketF/Daily-Leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NiketF/Daily-Leet/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/NiketF/Daily-Leet/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NiketF/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
