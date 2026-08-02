@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NiketF/Daily-Leet/tree/master/0110-balanced-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
