@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
@@ -177,4 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiketF/Daily-Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
