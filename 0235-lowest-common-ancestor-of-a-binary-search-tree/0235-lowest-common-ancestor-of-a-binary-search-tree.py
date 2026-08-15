@@ -13,15 +13,9 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        if root is None:
-            return None
-        if p==root or q==root:
-            return root
-        left=self.lowestCommonAncestor(root.left,p,q)
-        right=self.lowestCommonAncestor(root.right,p,q)
-        if left and right:
-            return root
-        if left:
-            return left
-        return right
+        if p.val<root.val and q.val<root.val:
+            return self.lowestCommonAncestor(root.left,p,q)
+        if p.val>root.val and q.val>root.val:
+            return self.lowestCommonAncestor(root.right,p,q)
+        return root
         
