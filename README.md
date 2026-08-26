@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NiketF/Daily-Leet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NiketF/Daily-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/NiketF/Daily-Leet/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/NiketF/Daily-Leet/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NiketF/Daily-Leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NiketF/Daily-Leet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NiketF/Daily-Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NiketF/Daily-Leet/tree/master/0994-rotting-oranges) |
 ## Topological Sort
