@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NiketF/Daily-Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NiketF/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NiketF/Daily-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiketF/Daily-Leet/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NiketF/Daily-Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NiketF/Daily-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
