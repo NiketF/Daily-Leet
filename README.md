@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NiketF/Daily-Leet/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NiketF/Daily-Leet/tree/master/0733-flood-fill) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
