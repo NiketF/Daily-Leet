@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NiketF/Daily-Leet/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/NiketF/Daily-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NiketF/Daily-Leet/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/NiketF/Daily-Leet/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NiketF/Daily-Leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -371,9 +374,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
