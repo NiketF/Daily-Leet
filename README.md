@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/NiketF/Daily-Leet/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/NiketF/Daily-Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/NiketF/Daily-Leet/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/NiketF/Daily-Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NiketF/Daily-Leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NiketF/Daily-Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NiketF/Daily-Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/NiketF/Daily-Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NiketF/Daily-Leet/tree/master/0547-number-of-provinces) |
