@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NiketF/Daily-Leet/tree/master/0062-unique-paths) |
+| [0371-sum-of-two-integers](https://github.com/NiketF/Daily-Leet/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/NiketF/Daily-Leet/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/NiketF/Daily-Leet/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/NiketF/Daily-Leet/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
 | ------- |
