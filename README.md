@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NiketF/Daily-Leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NiketF/Daily-Leet/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/NiketF/Daily-Leet/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/NiketF/Daily-Leet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NiketF/Daily-Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/NiketF/Daily-Leet/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NiketF/Daily-Leet/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NiketF/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
