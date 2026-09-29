@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NiketF/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NiketF/Daily-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiketF/Daily-Leet/tree/master/2104-sum-of-subarray-ranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiketF/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NiketF/Daily-Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiketF/Daily-Leet/tree/master/0907-sum-of-subarray-minimums) |
 | [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiketF/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NiketF/Daily-Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NiketF/Daily-Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/NiketF/Daily-Leet/tree/master/1020-number-of-enclaves) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiketF/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Topological Sort
 |  |
 | ------- |
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/NiketF/Daily-Leet/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiketF/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
