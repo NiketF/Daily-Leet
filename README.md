@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/NiketF/Daily-Leet/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/NiketF/Daily-Leet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NiketF/Daily-Leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NiketF/Daily-Leet/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/NiketF/Daily-Leet/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/NiketF/Daily-Leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NiketF/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
