@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NiketF/Daily-Leet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NiketF/Daily-Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NiketF/Daily-Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NiketF/Daily-Leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NiketF/Daily-Leet/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/NiketF/Daily-Leet/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/NiketF/Daily-Leet/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NiketF/Daily-Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/NiketF/Daily-Leet/tree/master/1510-stone-game-iv) |
 ## Two Pointers
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NiketF/Daily-Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiketF/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NiketF/Daily-Leet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NiketF/Daily-Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
