@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NiketF/Daily-Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/NiketF/Daily-Leet/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/NiketF/Daily-Leet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/NiketF/Daily-Leet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/NiketF/Daily-Leet/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/NiketF/Daily-Leet/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/NiketF/Daily-Leet/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NiketF/Daily-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
