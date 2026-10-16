@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NiketF/Daily-Leet/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/NiketF/Daily-Leet/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/NiketF/Daily-Leet/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/NiketF/Daily-Leet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NiketF/Daily-Leet/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/NiketF/Daily-Leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiketF/Daily-Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NiketF/Daily-Leet/tree/master/1248-count-number-of-nice-subarrays) |
