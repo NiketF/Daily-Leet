@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/NiketF/Daily-Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NiketF/Daily-Leet/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NiketF/Daily-Leet/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/NiketF/Daily-Leet/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NiketF/Daily-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/NiketF/Daily-Leet/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NiketF/Daily-Leet/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/NiketF/Daily-Leet/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NiketF/Daily-Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NiketF/Daily-Leet/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/NiketF/Daily-Leet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiketF/Daily-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/NiketF/Daily-Leet/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NiketF/Daily-Leet/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NiketF/Daily-Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NiketF/Daily-Leet/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NiketF/Daily-Leet/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NiketF/Daily-Leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
